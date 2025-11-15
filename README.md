@@ -41,9 +41,9 @@ Executive View: Metrics critical for top-level decision-makers.
 
 The dashboard seamlessly collects and utilizes data from two primary sources:
 
-Excel/CSV Files: Targets, Market Share data, and related information are sourced from [Excel/CSV files]().
+Excel/CSV Files: Targets, Market Share data, and related information are sourced from Excel/CSV files.
 
-MySQL Database: Facts and Dimensions for all departments are retrieved from a [MySQL database]().
+MySQL Database: Facts and Dimensions for all departments are retrieved from a MySQL database.
 
 # Live Dashboard
 [Explore the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmY5MDM2MjUtY2RhMC00NTk2LThjY2MtZDliMGNmZmJiZjE1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
