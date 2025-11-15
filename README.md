@@ -37,7 +37,8 @@ Marketing View: Analytics to enhance marketing strategy.
 Supply Chain View: Optimization metrics for efficient supply chain management.
 Executive View: Metrics critical for top-level decision-makers.
 
-Data Sources
+# Data Sources
+
 The dashboard seamlessly collects and utilizes data from two primary sources:
 
 Excel/CSV Files: Targets, Market Share data, and related information are sourced from [Excel/CSV files]().
